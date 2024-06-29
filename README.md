@@ -11,7 +11,7 @@
 
 ## Description
 
-Macro Food's is dedicated to offering the best quality and healthy food options. We believe that the food you consume plays a significant role in your overall well-being. Our mission is to provide nutritious and delicious meals that are carefully prepared with your health in mind.
+Macro Technology's is dedicated to offering the best quality and healthy food options. We believe that the food you consume plays a significant role in your overall well-being. Our mission is to provide nutritious and delicious meals that are carefully prepared with your health in mind.
 
 ## Features
 
