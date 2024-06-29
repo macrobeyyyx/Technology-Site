@@ -11,7 +11,7 @@
 
 ## Description
 
-Macro Technology's is dedicated to offering the best quality and healthy food options. We believe that the food you consume plays a significant role in your overall well-being. Our mission is to provide nutritious and delicious meals that are carefully prepared with your health in mind.
+"Macro Technology's is dedicated to integrating technology to offer the highest quality and healthy food options. We believe that the food you consume plays a significant role in your overall well-being. Our mission is to provide nutritious and delicious meals that are carefully prepared with your health in mind."
 
 ## Features
 
@@ -33,27 +33,27 @@ Macro Technology's is dedicated to offering the best quality and healthy food op
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/macrobeyyyx/macro-foods.git
+    git clone https://github.com/macrobeyyyx/macro-Technology.git
     ```
 
 2. Navigate to the project directory:
 
     ```sh
-    cd macro-foods
+    cd macro-Technology
     ```
 
 3. Open `index.html` in your web browser to view the website.
 
 ## Usage
 
-To start using Macro Food's, simply open the `index.html` file in your web browser. You can navigate through different sections like Home, About, Features, Solution, and Contact to explore the website.
+To start using Macro Technology's, simply open the `index.html` file in your web browser. You can navigate through different sections like Home, About, Features, Solution, and Contact to explore the website.
 
 ### Navigation
 
-- **Home**: Introduction to Macro Food's.
-- **About**: Information about Macro Food's mission and services.
-- **Features**: Detailed features and benefits of choosing Macro Food's.
-- **Solution**: Explanation of how Macro Food's meets your healthy eating goals.
+- **Home**: Introduction to Macro Technology's.
+- **About**: Information about Macro Technology's mission and services.
+- **Features**: Detailed features and benefits of choosing Macro Technology's.
+- **Solution**: Explanation of how Macro Technology's meets your healthy eating goals.
 - **Contact**: Contact form and contact information.
 
 ### JavaScript Functions
