@@ -5,3 +5,6 @@ mobileMenuButton.addEventListener('click', () => {
   showMenu = !showMenu;
   document.querySelector('.mobile-menu').classList.toggle('hidden');
 });
+function Uyar() {
+    alert("Bu Sadece Bir Demo");
+}
